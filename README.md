@@ -7,8 +7,12 @@ _“The best of people are those who are most beneficial to others.”_
 
 **About Me**
 
-I am a third year Computer Engineering student at [TMU](https://www.torontomu.ca/) with a passion for building products that solve real-world problems. My current focus is on building projects with Swift, and I look forward to showcasing my work soon. ✨
+_Available for 2026 Summer co-op placements (12-16 months)_ ✅
 
-I am always eager to learn new technologies and challenge myself to grow as a developer. Beyond coding, I enjoy socializing, fitness, and learning Arabic. 🤍
+I am a third year Computer Engineering student at [TMU](https://www.torontomu.ca/) with a drive for building products that solve real-world problems. My current focus is on building iOS applications with Swift, and you can check out my progress on [X](https://x.com/bookofnoor). ✨
 
-Feel free to connect with me on [LinkedIn](http://linkedin.com/in/themostfortunate/) or visit my portfolio at [asaadahmed.com](https://asaadahmed.com). 😃
+I am always trying to learn new technologies and challenge myself as a developer. Beyond coding, I enjoy spending time with family, fitness, and learning Arabic. 🤍
+
+Feel free to connect with me on [LinkedIn](http://linkedin.com/in/mostfortunate/) or visit my [portfolio](https://asaadahmed.com). 😃
+
+_"Momentum is like a train, it takes a lot to get going, and a lot to stop."_ - Asaad '25
